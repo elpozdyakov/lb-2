@@ -1,0 +1,206 @@
+.dom {
+    height: 580px;
+    width: 580px;
+}
+
+.roof {
+
+    width: 0;
+    height: 0;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    border-bottom: 120px solid red;
+}
+
+.house {
+    width: 380px;
+    height: 380px;
+    position: absolute;
+    background: green;
+}
+
+.door {
+    width: 100px;
+    height: 180px;
+    border: 1px solid black;
+    background: yellow;
+}
+
+.window {
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    background: aqua;
+
+}
+
+.windowtwo {
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    background: aqua;
+}
+
+.trumpet {
+
+    width: 50px;
+    height: 70px;
+    border: 1px solid black;
+    background: brown;
+}
+
+.roof3 {
+    top: 0px;
+    left: 0px;
+    position: relative;
+}
+
+.house3 {
+    top: 0px;
+    left: 8px;
+
+    position: relative;
+}
+
+.door3 {
+    top: 198px;
+    left: 140px;
+    position: relative;
+}
+
+.window3 {
+    top: -227px;
+    left: 290px;
+
+    position: relative;
+}
+
+.windowtwo3 {
+    top: -150px;
+    left: 10px;
+
+    position: relative;
+}
+
+.trumpet3 {
+    top: 0px;
+    left: 50px;
+
+    position: relative;
+}
+
+.roof2 {
+    top: 10px;
+    left: 500px;
+    position: absolute;
+}
+
+.house2 {
+    top: 130px;
+    left: 508px;
+
+    position: absolute;
+}
+
+.door2 {
+    top: 198px;
+    left: 140px;
+    position: absolute;
+}
+
+.window2 {
+    top: 30px;
+    left: 290px;
+
+    position: absolute;
+}
+
+.windowtwo2 {
+    top: 30px;
+    left: 10px;
+
+    position: absolute;
+}
+
+.trumpet2 {
+    top: 0px;
+    left: 50px;
+
+    position: absolute;
+}
+
+.roof1 {
+    top: 10px;
+    left: 1000px;
+    position: fixed;
+}
+
+.house1 {
+    top: 130px;
+    left: 1008px;
+
+    position: fixed;
+}
+
+.door1 {
+    top: 328px;
+    left: 1150px;
+    position: fixed;
+}
+
+.window1 {
+    top: 160px;
+    left: 1298px;
+
+    position: fixed;
+}
+
+.windowtwo1 {
+    top: 160px;
+    left: 1020px;
+
+    position: fixed;
+}
+
+.trumpet1 {
+    top: 10px;
+    left: 1260px;
+
+    position: fixed;
+}
+
+.roof4 {
+    margin-top: -1000px;
+    position: static;
+}
+
+.house4 {
+    padding-top: 200px;
+    margin-left: 8px;
+    position: static;
+    height: 182px;
+}
+
+.door4 {
+    margin-left: 140px;
+    position: static;
+
+
+}
+
+.windowtwo4 {
+    position: static;
+    margin-top: -350px;
+    margin-left: 290px;
+}
+
+.window4 {
+    margin-top: -80px;
+    margin-left: 10px;
+    position: static;
+}
+
+.trumpet4 {
+    margin-left: 50px;
+    position: static;
+}
